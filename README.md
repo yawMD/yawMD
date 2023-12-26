@@ -1,4 +1,4 @@
-- 👋 Hi
+- 👋 Hi I'm Emmanuel MacDan
 - 👀 I’m interested in Anything Software...
 - 💞️ I’m looking to collaborate on software projects
 <!---
